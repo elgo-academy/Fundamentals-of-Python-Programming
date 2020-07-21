@@ -81,5 +81,3 @@ dependencies:
   - zeromq=4.3.2=ha925a31_2
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h62dcd97_4
-prefix: C:\Users\ramkr\miniconda3\envs\basic
-
